@@ -1,0 +1,14 @@
+Peluquería "Estilo & Corte"
+Horario:
+Lunes a Viernes: 09:00 - 19:00
+Sábados: 09:00 - 14:00
+Domingos: Cerrado
+
+Servicios:
+- Corte hombre: 18€
+- Corte mujer: 22€
+- Tinte completo: 45€
+- Mechas: desde 50€
+- Tratamiento capilar: 25€
+
+Pagos: efectivo, tarjeta y Bizum.
